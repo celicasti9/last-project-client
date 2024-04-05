@@ -43,7 +43,7 @@ function App() {
   ) : (
     <div className="App">
     
-      <Navbar />
+      {/*<Navbar />*/}
 
       <Routes>
 
