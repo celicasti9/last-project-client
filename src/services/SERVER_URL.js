@@ -1,1 +1,1 @@
-export const SERVER_URL = 'https://last-project-server.vercel.app/'
+export const SERVER_URL = 'http://localhost:4000'
